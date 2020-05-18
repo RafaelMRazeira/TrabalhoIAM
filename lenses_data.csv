@@ -1,0 +1,26 @@
+age of the patient,spectacle prescription,astigmatic,tear production rate,Class
+
+young,myope,no,reduced,the patient should not be fitted with contact lenses
+young,myope,no,normalthe ,patient should be fitted with soft contact lenses
+young,myope,yes,reduced,the patient should not be fitted with contact lenses
+young,myope,yes,normal,the patient should be fitted with hard contact lenses
+young,hypermetrope,no,reduced,the patient should not be fitted with contact lenses
+young,hypermetrope,no,normalthe ,patient should be fitted with soft contact lenses
+young,hypermetrope,yes,reduced,the patient should not be fitted with contact lenses
+young,hypermetrope,yes,normal,the patient should be fitted with hard contact lenses
+pre-presbyopic,myope,no,reduced,the patient should not be fitted with contact lenses
+pre-presbyopic,myope,no,normalthe ,patient should be fitted with soft contact lenses
+pre-presbyopic,myope,yes,reduced,the patient should not be fitted with contact lenses
+pre-presbyopic,myope,yes,normal,the patient should be fitted with hard contact lenses
+pre-presbyopic,hypermetrope,no,reduced,the patient should not be fitted with contact lenses
+pre-presbyopic,hypermetrope,no,normalthe ,patient should be fitted with soft contact lenses
+pre-presbyopic,hypermetrope,yes,reduced,the patient should not be fitted with contact lenses
+pre-presbyopic,hypermetrope,yes,normal,the patient should not be fitted with contact lenses
+presbyopic,myope,no,reduced,the patient should not be fitted with contact lenses
+presbyopic,myope,no,normal,the patient should not be fitted with contact lenses
+presbyopic,myope,yes,reduced,the patient should not be fitted with contact lenses
+presbyopic,myope,yes,normal,the patient should be fitted with hard contact lenses
+presbyopic,hypermetrope,no,reduced,the patient should not be fitted with contact lenses
+presbyopic,hypermetrope,no,normalthe ,patient should be fitted with soft contact lenses
+presbyopic,hypermetrope,yes,reduced,the patient should not be fitted with contact lenses
+presbyopic,hypermetrope,yes,normal,the patient should not be fitted with contact lenses
